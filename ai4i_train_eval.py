@@ -237,7 +237,7 @@ The **{best['name']}** model performed best, achieving an F1-score of **{best['f
 **Hardware:**
 *   Standard CPU (Intel i5/AMD Ryzen 5 or better recommended)
 *   4GB+ RAM (8GB recommended)
-*   500MB free disk space
+*   500MB free disk spaces
 
 **Software:**
 *   Python 3.8+

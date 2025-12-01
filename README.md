@@ -17,7 +17,7 @@ The **MLP (Neural Net)** model performed best, achieving an F1-score of **0.729*
 **Hardware:**
 *   Standard CPU (Intel i5/AMD Ryzen 5 or better recommended)
 *   4GB+ RAM (8GB recommended)
-*   500MB free disk space
+*   500MB free disk spaces
 
 **Software:**
 *   Python 3.8+
